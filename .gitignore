@@ -1,0 +1,4 @@
+*.dSym
+*.txt
+*main
+.vscode
